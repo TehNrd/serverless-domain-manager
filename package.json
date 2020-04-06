@@ -1,6 +1,6 @@
 {
   "name": "serverless-domain-manager",
-  "version": "3.3.2",
+  "version": "3.4.0-beta.1",
   "engines": {
     "node": ">=4.0"
   },
@@ -33,9 +33,6 @@
     "build": "tsc --project ."
   },
   "files": [
-    "*.js",
-    "*.ts",
-    "*.json",
     "dist/*.js"
   ],
   "nyc": {
